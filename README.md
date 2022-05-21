@@ -1,4 +1,4 @@
-# FastAPI + SQLAlchemy DDD Example<br>(NEOKID님 FastAPI 예시)
+# FastAPI + SQLAlchemy DDD Example<br>(NEOKID님 DDD FastAPI예시
 
 This project is a Domain Driven Development architecture example project using Python's FastAPI framework and SQLAlchemy ORM.
 
